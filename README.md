@@ -13,7 +13,7 @@
   MidLevel Fullstack developer👨‍💻
 </p>
   
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC">    <img  alt="AminMKN's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AminMKN?cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC">    <img  alt="AliKhz80's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/AminMKN?cardType=github&theme=onedark&Text=DDDDDD&Title=CBDD35&Border=44DD40&Ring=3BD5DC" />  </a>
   
 <hr/>
   
@@ -31,7 +31,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
